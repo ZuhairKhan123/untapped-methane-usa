@@ -3,9 +3,9 @@ Organic waste breaks down in landfills producing methane, and many landfills alr
 
 I have built this notebook using Landfill Methane Outreach Program (LMOP) database to answer three questions:
 
-How much landfill gas in the US is collected but not used for energy, and where is it?
-Why do California and Texas, the two states with the most untapped waste, have such different gaps?
-Looking ahead to 2050, which specific sites and counties offer the most dependable opportunity?
+- How much landfill gas in the US is collected but not used for energy, and where is it?
+- Why do California and Texas, the two states with the most untapped waste, have such different gaps?
+- Looking ahead to 2050, which specific sites and counties offer the most dependable opportunity?
 
 **Key findings**
 1. 78% of US landfills, holding 38% of all waste in place (about 5.2 billion tons), have no active or planned energy project. Those landfills flare 455.7 mmscfd of collected gas, roughly 845 MW of generating potential (IQR 768 to 923 MW), using a conversion factor derived from 394 operating projects.
